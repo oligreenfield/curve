@@ -887,3 +887,20 @@ if __name__ == "__main__":
     with open(results["out_path"], "w") as f:
         f.write("\n".join(html_parts))
     print(f"Report written to {results['out_path']}")
+
+
+|Date          |Gilt                                      |Size          |Avg yield / cover                 |
+|--------------|------------------------------------------|--------------|----------------------------------|
+|Tue 12 May    |4⅛% Treasury Gilt 2031                    |£4,000m       |—                                 |
+|Thu 21 May    |4⅞% Treasury Gilt 2036                    |~£4,000-4,250m|—                                 |
+|Wed 27 May    |4⅛% Treasury Gilt 2033                    |~£4,000m      |—                                 |
+|Thu 11 Jun    |4% Treasury Gilt 2029                     |~£4,000m      |—                                 |
+|Tue 16 Jun    |4⅞% Treasury Gilt 2036                    |£4,250m       |—                                 |
+|Wed 24 Jun    |4⅛% Treasury Gilt 2031                    |£4,250m       |—                                 |
+|Tue 7 Jul     |4⅛% Treasury Gilt 2033                    |£4,000m       |—                                 |
+|Thu 16 Jul    |4⅞% Treasury Gilt 2036                    |~£4,000-4,250m|—                                 |
+|Tue 21 Jul    |4% Treasury Gilt 2029                     |~£4,000m      |—                                 |
+|Tue 4 Aug     |New short conventional, matures 7 Mar 2032|TBC           |—                                 |
+|Tue 18 Aug    |4⅞% Treasury Gilt 2036                    |~£4,000-4,250m|—                                 |
+|Tue 25 Aug    |4⅛% Treasury Gilt 2033                    |£4,000m       |—                                 |
+|**Thu 10 Sep**|**New 4⅝% Treasury Gilt 2030**            |**£5,000m**   |**4.786% / ~3.24x (£16.2bn bids)**|
